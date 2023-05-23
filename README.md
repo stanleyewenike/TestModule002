@@ -1,2 +1,3 @@
 # TestModule002
-TestModule002
+
+Repository for feature proposals
